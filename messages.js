@@ -1,0 +1,2 @@
+messages = ["A thing that seems to be stable to a lady might appear to be resolved to an actor.", "Feel lonely. Or don't.", "Past lives are actually just your wants and needs of all that is painful.", "Make your house your ally.", "You are a clever mammal. Think about that.", "Take on perfections and do something wild. Never give up.", "Creativity: there to be overcome?", "Fear the pleasant. For they will someday get the Earth.", "Do not question your boss."]
+console.log(messages[Math.floor(Math.random()*(messages.length-1))])
